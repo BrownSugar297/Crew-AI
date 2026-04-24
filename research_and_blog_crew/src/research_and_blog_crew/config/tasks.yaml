@@ -1,0 +1,15 @@
+report_task:
+  description: >
+    Based on the input topic: {topic}, generate a comprehensive report (approx. 1000 words) 
+    including the latest facts and future trends. Structure it with clear headings.
+  expected_output: >
+    A 1000-word structured report on {topic}.
+  agent: report_generator
+
+blog_writing_task:
+  description: >
+    Using the report on {topic}, create a simplified blog post (approx. 500 words). 
+    Use the "Explain Like I'm 5" style.
+  expected_output: >
+    A 500-word fun blog post with a creative heading.
+  agent: blog_writer
