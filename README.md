@@ -1,7 +1,3 @@
-Here is that introduction structured in a clean, professional Markdown format—perfect for your GitHub `README.md` or technical documentation.
-
----
-
 # 🚀 Introduction to CrewAI
 
 **CrewAI** is a cutting-edge, open-source framework designed to orchestrate **role-playing, autonomous AI agents**. While traditional AI chatbots operate in a simple "one-to-one" conversation, CrewAI enables "many-to-many" collaboration, allowing multiple agents to work together as a cohesive "crew" to solve complex, multi-step problems.
