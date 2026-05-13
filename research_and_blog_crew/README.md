@@ -1,4 +1,4 @@
-# 🤖 Research & Blog Crew — CrewAI
+#  Research & Blog Crew — CrewAI
 
 > A multi-agent AI system that autonomously **researches any topic** and **writes a reader-friendly blog post** using a sequential crew of specialized AI agents — powered by [CrewAI](https://crewai.com) and Google Gemini.
 
